@@ -1,0 +1,3 @@
+[submodule "TXV_Library_PCB"]
+	path = TXV_Library_PCB
+	url = git@github.com:SpaceTeam/TXV_Library_PCB.git
