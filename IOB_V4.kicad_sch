@@ -1686,7 +1686,6 @@
     )
   )
 
-
   (junction (at 58.547 149.098) (diameter 0) (color 0 0 0 0)
     (uuid 07488618-aaff-49aa-a776-40ed5a8deac7)
   )
@@ -3550,12 +3549,6 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/8d11708b-9730-4537-9fd1-f5e6ccaae62e"
       (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/d1457e9e-cd6f-4eac-a387-b31614edcffe"
-      (reference "#PWR0141") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/9050180b-589d-4fdb-922e-741731745495"
-      (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
-    )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/d3cc50d0-da6a-47a6-bcd2-a856f3d4f92b"
       (reference "#PWR0143") (unit 1) (value "GND") (footprint "")
     )
@@ -4062,9 +4055,6 @@
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7baf78c5-b11e-457b-812f-beadef1c4ebe/c179ccde-2182-4f60-b03c-94290c9d0fc2"
       (reference "Q12") (unit 1) (value "BSZ0902NSATMA1") (footprint "TXV_Library_Footprints:PG_TSDSON-8")
-    )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/8154583b-4834-4991-a4da-bce9b26a1113"
-      (reference "Q13") (unit 1) (value "BSZ0902NSATMA1") (footprint "TXV_Library_Footprints:PG_TSDSON-8")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/7f156281-2482-46dd-8a27-3fb14f9b30ad"
       (reference "R1") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0603_1608Metric")
