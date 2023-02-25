@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HC4067SM96
+D High Speed CMOS 16-Ch MUX/DEMUX 24P SOIC CD74HC4067SM96, Multiplexer/Demultiplexer Single 16:1, 3 V, 5 V, 24-Pin, SSOP, 1
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-6/sf-000127204.pdf
+$ENDCMP
+#
+#End Doc Library
