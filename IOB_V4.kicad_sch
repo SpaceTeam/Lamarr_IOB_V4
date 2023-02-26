@@ -4284,9 +4284,6 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/6a8bea66-9b1e-4f28-aad3-092e91290323"
       (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm")
     )
-    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/2182db2c-e124-4535-890c-f41babccc9ab"
-      (reference "TP6") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm")
-    )
     (path "/31b062d9-fa48-4ba2-b857-360e76517386"
       (reference "U1") (unit 1) (value "REF3033") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
