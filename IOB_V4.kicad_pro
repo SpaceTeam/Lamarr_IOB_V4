@@ -354,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "IOB_V3.kicad_pro",
+    "filename": "IOB_V4.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -486,7 +486,7 @@
     ],
     [
       "7baf78c5-b11e-457b-812f-beadef1c4ebe",
-      "Input12"
+      "Input0"
     ],
     [
       "33332500-4da3-42ef-9bb3-bc804f9ab4ce",
