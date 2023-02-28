@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name "TXV_Library_Symbols")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB-master/TXV_Library_Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "TXV_Library_Symbols")(type "KiCad")(uri "${KIPRJMOD}/TXV_Library_PCB/TXV_Library_Symbols.kicad_sym")(options "")(descr ""))
   (lib (name "IOB-rescue")(type "Legacy")(uri "${KIPRJMOD}/IOB-rescue.lib")(options "")(descr ""))
   (lib (name "CD74HC4067SM96")(type "Legacy")(uri "${KIPRJMOD}/CD74HC4067SM96/KiCad/CD74HC4067SM96.lib")(options "")(descr ""))
 )
