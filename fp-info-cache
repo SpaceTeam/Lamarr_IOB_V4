@@ -1,4 +1,4 @@
-20497800927975784
+20499478641956228
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -81194,6 +81194,13 @@ Logo WEEE
 0
 TXV_Library_Footprints
 8_Pin_DIP_Switch
+
+
+0
+16
+16
+TXV_Library_Footprints
+8_Pin_DIP_Switch_DHA-08T-Q
 
 
 0
