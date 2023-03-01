@@ -3479,6 +3479,12 @@
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/3059dc4c-f9ff-4ff5-a13b-3334b14e15ed"
       (reference "#PWR098") (unit 1) (value "GND") (footprint "")
     )
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/8c668f54-25c9-46cd-85e7-98b37f5e2a01"
+      (reference "#PWR099") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/92bf4143-6b64-45e1-9bad-1c1fc5d0266d"
+      (reference "#PWR0100") (unit 1) (value "GND") (footprint "")
+    )
     (path "/33332500-4da3-42ef-9bb3-bc804f9ab4ce/702e3e4a-e778-46c0-b1ee-6f7c7cb385bc"
       (reference "#PWR0109") (unit 1) (value "+24V") (footprint "")
     )
@@ -3931,6 +3937,9 @@
     )
     (path "/604bcb2c-233a-454c-b15a-267e51d722f3"
       (reference "J20") (unit 1) (value "Conn_01x10") (footprint "Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical")
+    )
+    (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/d7072d4d-124e-49ed-9ac7-04c61c7905c0"
+      (reference "J21") (unit 1) (value "Conn_01x04") (footprint "Connector_Molex:Molex_SL_171971-0004_1x04_P2.54mm_Vertical")
     )
     (path "/e7136250-cee6-4520-acb7-2950e0829e43/7426b94e-ffc2-452e-843f-c6ffae4705a2/64ec5a29-d5a0-4e6e-a0ed-eb7fc6d81e30"
       (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
