@@ -4494,7 +4494,7 @@
       (reference "SW2") (unit 1) (value "SW_Push_Dual") (footprint "TXV_Library_Footprints:SW_SPST_CK_RS282G05A3_and_THT")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/179c61ef-4bb1-49e7-a31d-9f9c899ae1c2"
-      (reference "SW3") (unit 1) (value "SW_DIP_x08") (footprint "TXV_Library_Footprints:8_Pin_DIP_Switch")
+      (reference "SW3") (unit 1) (value "SW_DIP_x08") (footprint "TXV_Library_Footprints:8_Pin_DIP_Switch_DHA-08T-Q")
     )
     (path "/534d7b1f-d272-47da-b7a1-47aab2c48175/a5379312-944f-48ed-b308-52b44a00d5dd"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_THTPad_D1.0mm_Drill0.5mm")
