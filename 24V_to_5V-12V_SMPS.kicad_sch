@@ -841,7 +841,7 @@
     (property "Value" "Polyfuse" (id 1) (at 104.14 91.4399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TXV_Library_Footprints:0805L110SL PPTC Polyfuse Littelfuse" (id 2) (at 102.87 95.25 0)
+    (property "Footprint" "Fuse:Fuse_0805_2012Metric" (id 2) (at 102.87 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 90.17 0)
